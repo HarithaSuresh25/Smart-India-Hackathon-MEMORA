@@ -1,1 +1,1 @@
-# Smart-India-Hackathon-MEMORA
+MEMORA – A memory-support app for dementia patients in North-Eastern India, built by a team of six first-year students for Smart India Hackathon. Our first real step into building technology with social impact. 🧠💙
